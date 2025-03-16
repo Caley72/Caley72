@@ -1,3 +1,5 @@
 - 👋 Hi, I’m @Caley72
 - 👀 I’m interested in WebDev(FrontEnd), Animations and Cats with a cup of Coffee
 - 💞️ Any project that involves curious looks and stunning animation, dont hesitate to contact me
+- Currently on a freelancer run off so don't hesitate
+- Yeah and I forgot to mention spelling syndroum
