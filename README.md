@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Caley72
 - 👀 I’m interested in WebDev(FrontEnd), Animations and Cats with a cup of Coffee
-- 💞️ Any project that involves curious looks and stunning animation, dont hesitate to call me
+- 💞️ Any project that involves curious looks and stunning animation, dont hesitate to contact me
