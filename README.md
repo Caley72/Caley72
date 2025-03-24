@@ -5,3 +5,11 @@ _ 🐾 Cat Lover | Pygame Enthusiast | Web Developer | Animation Fanatic 🎮�
 - 💞️ Any project that involves curious looks and stunning animation, dont hesitate to contact me
 - Currently on a freelancer run off so don't hesitate
 - Yeah and I forgot to mention spelling syndroum
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-username)
+
+## Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&hide_title=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username)
