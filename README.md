@@ -30,7 +30,7 @@ A ongoing project to create a website for a school's coding club. It's focused o
 Check out more projects on my [GitHub repositories](https://github.com/Caley72?tab=repositories).
 
 ## Streak
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caley72)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caley72&theme=dark&background=1C1C1C)
 
 ## Stats
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caley72&show_icons=true&hide_title=true&theme=dark&border_radius=10)
@@ -39,17 +39,12 @@ Check out more projects on my [GitHub repositories](https://github.com/Caley72?t
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caley72&theme=dark&layout=compact)
 
 ## Trophies
-![GitHub Trophies](https://github-trophies.vercel.app/?username=Caley72&theme=dark)
-
-## Visitor Badge
-![Profile Views](https://komarev.com/ghpvc/?username=Caley72)
-
-## GitHub Contributions
-![Caley72's Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Caley72&theme=github)
+![GitHub Trophies](https://github-trophies.vercel.app/?username=Caley72&theme=dark&background=1C1C1C)
 
 ## Get In Touch
 - **Email**: meowsetoverride@gmail.com
 
 ## Fun Fact
 > "If the plan doesm't work change the plan, but never the goal." – A random Stray Cat
+
 > "You can't be peaceful unless you're capable of violence otherwise you are just harmless." – That Cat that comes to your door ever morning
