@@ -6,4 +6,11 @@ _ 🐾 Cat Lover | Pygame Enthusiast | Web Developer | Animation Fanatic 🎮�
 - Currently on a freelancer run off so don't hesitate
 - Yeah and I forgot to mention spelling syndroum
 
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caley72)
+#Streak
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Caley72)
+
+## Stats
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Caley72&show_icons=true&hide_title=true)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Caley72)
