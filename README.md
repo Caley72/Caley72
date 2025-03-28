@@ -45,6 +45,6 @@ Check out more projects on my [GitHub repositories](https://github.com/Caley72?t
 - **Email**: meowsetoverride@gmail.com
 
 ## Fun Fact
-> "If the plan doesm't work change the plan, but never the goal." – A random Stray Cat
+> "If the plan doesn't work, change the plan, but never the goal." – A random Stray Cat
 
-> "You can't be peaceful unless you're capable of violence otherwise you are just harmless." – That Cat that comes to your door ever morning
+> "You can't be peaceful unless you're capable of violence, otherwise you are just harmless." – That Cat that comes to your door ever morning
